@@ -1,2 +1,2 @@
 # ClimaHogar.sv
-Página web informativa para la empresa llamada Clima Hogar, especializada en climatización
+Página web informativa de Clima Hogar.sv, especializada en climatización
