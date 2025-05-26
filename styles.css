@@ -13,3 +13,9 @@
     color: white;
 }
 
+.img-fondo-principal{
+    background-image: url(images/fondo.png);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
